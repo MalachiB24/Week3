@@ -9,6 +9,7 @@ package week3project;
  * @author malac
  */
 //comment
+//2nd comment
 public class NewClass {
     
 }
