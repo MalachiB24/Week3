@@ -8,9 +8,10 @@ package week3project;
  *
  * @author malac
  */
-//comment (push(
+//comment (push)
 //2nd comment (pull)
 //3rd comment (fetch and merge)
+//4th comment (branch)
 public class NewClass {
     
 }
